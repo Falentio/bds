@@ -1,316 +1,418 @@
 {
 	"linux": {
 		"1.6.1.0": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.6.1.0.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.6.1.0.zip",
+			"ipfsCid": "bafybeigs7hxau5e2jqfaoyd75nqqqz3z4vclgtqb6qckebpwl5gwn72gu4"
 		},
 		"1.7.0.13": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.7.0.13.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.7.0.13.zip",
+			"ipfsCid": "bafybeibel5rl7j5ywglujionkclvmapqiycy6v6hswaxblc44wpyih3hwm"
 		},
 		"1.8.0.24": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.8.0.24.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.8.0.24.zip",
+			"ipfsCid": "bafybeiaj7cn4xrduqwckzszmv2z2c4zywpug6ukoarx7u3amd66e7t4jnq"
 		},
 		"1.8.1.2": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.8.1.2.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.8.1.2.zip",
+			"ipfsCid": "bafybeig4j2qwc4nk2ye2mxe2dz33nlbqemyuvliwl6kcvhlgizuqvetk6u"
 		},
 		"1.9.0.15": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.9.0.15.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.9.0.15.zip",
+			"ipfsCid": "bafybeicykijz37f7obubygrpuz3yggd25ajc5s3crxzdv6gsisvtz64tey"
 		},
 		"1.10.0.7": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.10.0.7.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.10.0.7.zip",
+			"ipfsCid": "bafybeic72vipujoykeovsyvmyfxob7o2okaamyyw24jvvvk5vmrfqignhy"
 		},
 		"1.11.0.23": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.11.0.23.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.11.0.23.zip",
+			"ipfsCid": "bafybeibdnrqdpcndig34aoxgyau4y2yyf5rldmqskyedkd66akvss6qozu"
 		},
 		"1.11.1.2": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.11.1.2.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.11.1.2.zip",
+			"ipfsCid": "bafybeieyymgzws7ok7msdosanjidjea6ivg4nmtvfzphktcfci7d7ixqje"
 		},
 		"1.11.2.1": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.11.2.1.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.11.2.1.zip",
+			"ipfsCid": "bafybeifup6xezcbpgwhtqhriizcnj7dpqu3ugd5ni3jot2sxd7ysckud4e"
 		},
 		"1.11.4.2": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.11.4.2.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.11.4.2.zip",
+			"ipfsCid": "bafybeiehkcdupyilfwf7jjt6vicpekw573bdw6zqrjgjkgf7t4b5tndqh4"
 		},
 		"1.12.0.28": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.12.0.28.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.12.0.28.zip",
+			"ipfsCid": "bafybeialwxlu25mq3mkx6zpqimmsrgnww6jbwr274wuapbfc7kcecvg5zy"
 		},
 		"1.12.1.1": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.12.1.1.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.12.1.1.zip",
+			"ipfsCid": "bafybeiaflnmnaydlob5pawvmesjp6sbj7haip74bg2puiiyg4e4dsmc3wm"
 		},
 		"1.13.0.34": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.13.0.34.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.13.0.34.zip",
+			"ipfsCid": "bafybeidxto5gyf6ap5ittzbxdbtqpyub3c3v5p2hjb5h7x2od3pdkzk4kq"
 		},
 		"1.13.1.5": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.13.1.5.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.13.1.5.zip",
+			"ipfsCid": "bafybeiczzu5wuwody7cjcek54hx6nsdxvwdfoqtwsp4gzg3yaj4ocva3ua"
 		},
 		"1.13.2.0": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.13.2.0.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.13.2.0.zip",
+			"ipfsCid": "bafybeib2v2gyca6hozpdhaw2xyejugk4irouxh3gyoznedhkugljz5sl4u"
 		},
 		"1.13.3.0": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.13.3.0.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.13.3.0.zip",
+			"ipfsCid": "bafybeigryjkli3buenjiizzs3otxmkgbjrrodcgozn2cbwtpuma5yunblq"
 		},
 		"1.14.0.9": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.14.0.9.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.14.0.9.zip",
+			"ipfsCid": "bafybeifcsvilhkty4seifrxcu22mkbfe7wexvlsfimlmv4y2uh3uduqblm"
 		},
 		"1.14.1.4": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.14.1.4.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.14.1.4.zip",
+			"ipfsCid": "bafybeiez5ryt3shtf6oyi36avfz5m3cgmwrpv7ym2wrs5pgagj7gxk76py"
 		},
 		"1.14.20.1": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.14.20.1.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.14.20.1.zip",
+			"ipfsCid": "bafybeihikou5e2zvdunukx7vxpdn56kwbt2qlfiztvrm7vesy33t6millq"
 		},
 		"1.14.21.0": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.14.21.0.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.14.21.0.zip",
+			"ipfsCid": "bafybeihmoas3kpm4anuu5a2swgdso4s63ucr5r3fxaudqnig4v72f7vnp4"
 		},
 		"1.14.30.2": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.14.30.2.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.14.30.2.zip",
+			"ipfsCid": "bafybeibvgsmrjnyx4nqcjcqzc32ebh5yqpppaepduizfrveazwlflnhgzi"
 		},
 		"1.14.32.1": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.14.32.1.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.14.32.1.zip",
+			"ipfsCid": "bafybeib2nc5kup75kbx6wfwk2ilmgp3cdr2pnotzrbsbhxgl4igyrbxpgm"
 		},
 		"1.14.60.5": {
 			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.14.60.5.zip"
 		},
 		"1.16.0.2": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.0.2.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.0.2.zip",
+			"ipfsCid": "bafybeiecbxjwqlbjspa5aved4inmgyhwxbpq3hqleawzplh6rcjvk5nrpu"
 		},
 		"1.16.1.02": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.1.02.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.1.02.zip",
+			"ipfsCid": "bafybeiftewrlodc2wx42mbxiwydyjsvzq4cgiq5s3p64rwwh555n4i7dj4"
 		},
 		"1.16.10.02": {},
 		"1.16.20.03": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.20.03.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.20.03.zip",
+			"ipfsCid": "bafybeiciwuecmqrwuuzimvmtntnm3bwxscwoxzuis35pvreuzleekillwq"
 		},
 		"1.16.40.02": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.40.02.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.40.02.zip",
+			"ipfsCid": "bafybeic36nf77cjjafc4urhupjllptsguzuoltv4sjlk22ukxhkgnsdg6e"
 		},
 		"1.16.100.04": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.100.04.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.100.04.zip",
+			"ipfsCid": "bafybeiasx7r5j27pcwf7dphpvuupsaufh72qwf7vmyrydxdsm5oyb5hklm"
 		},
 		"1.16.101.01": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.101.01.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.101.01.zip",
+			"ipfsCid": "bafybeieyj4vnqszpmjvatx6nvvsuwjre2mlnqol6wl43y6ahjwucatmgaq"
 		},
 		"1.16.200.02": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.200.02.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.200.02.zip",
+			"ipfsCid": "bafybeifqzizujru2e7uyd2dczob4mjauas574fu4eppxsrjbr7b5breisu"
 		},
 		"1.16.201.02": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.201.02.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.201.02.zip",
+			"ipfsCid": "bafybeidk7kltfxml5pi6hbryn6bq5t4b3tco62mlhgjhroli7gbkiuvmqi"
 		},
 		"1.16.201.03": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.201.03.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.201.03.zip",
+			"ipfsCid": "bafybeiaxelv3zxazskqysz5jqbtot2moosnu7qysembqn2pev5ekhr6kzi"
 		},
 		"1.16.210.05": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.210.05.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.210.05.zip",
+			"ipfsCid": "bafybeibewoydn2qpcee646so3skuccn7qtupqdscweeep6m4ps2hdxeb7e"
 		},
 		"1.16.210.06": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.210.06.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.210.06.zip",
+			"ipfsCid": "bafybeifiujbzazdpf6qzopnwvxhh66qdvqie6eizo7ndbrdbsx4a5mecpu"
 		},
 		"1.16.220.02": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.220.02.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.220.02.zip",
+			"ipfsCid": "bafybeifcmxiy7x7nclhpim4cq2yei6gznwxuc5td3wglb4wvygg6vyhk24"
 		},
 		"1.16.221.01": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.221.01.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.16.221.01.zip",
+			"ipfsCid": "bafybeiewtoaprfpikk7hvhf4vtzgnvaxjebh7i7rrdb52324wjcbjoqonm"
 		},
 		"1.17.0.03": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.0.03.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.0.03.zip",
+			"ipfsCid": "bafybeifzy2cz2snchxlcdolmrilafzh76leu723rexu4xm5muvoituxp7a"
 		},
 		"1.17.1.01": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.1.01.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.1.01.zip",
+			"ipfsCid": "bafybeiahcufevdiuf6uxc73dfbkgwg56xiuky5s4tie2q5ownonbmnbl3e"
 		},
 		"1.17.2.01": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.2.01.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.2.01.zip",
+			"ipfsCid": "bafybeianffmlatpxnqm55dvp6gnckycnqbjabajnho5dhlbmiwi4lyz4ce"
 		},
 		"1.17.10.04": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.10.04.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.10.04.zip",
+			"ipfsCid": "bafybeiedajiny3tkbsugaizyjwqc3ll4b2zkywxglb4jomg63nc73lxyxi"
 		},
 		"1.17.11.01": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.11.01.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.11.01.zip",
+			"ipfsCid": "bafybeigx73wosypgosn42bjdefszkck3ujf2nyxon6qs7mp7cp2ldw7lza"
 		},
 		"1.17.30.04": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.30.04.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.30.04.zip",
+			"ipfsCid": "bafybeigggcjjablp4g44rziu7b6xtzn552r2kj6bu52npzlzylktqvhoea"
 		},
 		"1.17.31.01": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.31.01.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.31.01.zip",
+			"ipfsCid": "bafybeiaioqxyqsefz73lxedpb5ps66sgldnikxuf6kqej7dybvt47ruh2y"
 		},
 		"1.17.32.02": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.32.02.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.32.02.zip",
+			"ipfsCid": "bafybeiaehixgb5fd75oyww3rqwi6cmjsdydin4zysiv7ma5mkvvlmtnaui"
 		},
 		"1.17.33.01": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.33.01.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.33.01.zip",
+			"ipfsCid": "bafybeigciu4jb33phts3an4miyzmkskjdl4pvxkamupvyrjdanwgpd2fjy"
 		},
 		"1.17.34.02": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.34.02.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.34.02.zip",
+			"ipfsCid": "bafybeiebr3zjssdpom677m4i442qwupemzynnr2yxxmpx5p47btd66ewh4"
 		},
 		"1.17.40.06": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.40.06.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.40.06.zip",
+			"ipfsCid": "bafybeiaa4rapjztucamtvsb3gp2lphysxtrergkyu6yzr55tyjwb6vs5d4"
 		},
 		"1.17.41.01": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.41.01.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.17.41.01.zip",
+			"ipfsCid": "bafybeibwxicx67akpvypfd6isybiu2km5hamuklyrratvd7caq6mubtbte"
 		},
 		"1.18.0.02": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.18.0.02.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.18.0.02.zip",
+			"ipfsCid": "bafybeieadf7ytq5n7kgafpf5id2m62o5lk3qbpmtb73uvx2gakrfmm6gai"
 		},
 		"1.18.1.02": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.18.1.02.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.18.1.02.zip",
+			"ipfsCid": "bafybeih3r2kspy4d6m4mf4wfnhajpokjopktmd337blyvyr4nulupted6a"
 		},
 		"1.18.2.03": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.18.2.03.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-linux/bedrock-server-1.18.2.03.zip",
+			"ipfsCid": "bafybeidufnv5txn3x2vcxekno7mpnuqa7u5kuiewj2xpq5z3s65rtq2fle"
 		}
 	},
 	"win": {
 		"1.6.1.0": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.6.1.0.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.6.1.0.zip",
+			"ipfsCid": "bafybeif4ajzbz4zdpgdvtktzo3xouqzf3wwjqtqiwmz7k6cveujcnblq3q"
 		},
 		"1.7.0.13": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.7.0.13.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.7.0.13.zip",
+			"ipfsCid": "bafybeihkadumkftpxxaj4na6tt6ioryoy2kkkde2qlqjlkaitdgkvsylzq"
 		},
 		"1.8.0.24": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.8.0.24.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.8.0.24.zip",
+			"ipfsCid": "bafybeiczrdtqo46k254asrwydoqvz63yojhxfbluyyteqlfh3iqwenbwie"
 		},
 		"1.8.1.2": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.8.1.2.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.8.1.2.zip",
+			"ipfsCid": "bafybeieigheu3cs2acvilaldueqpsjehjgdnz2223gae3erkupekdmk7ty"
 		},
 		"1.9.0.15": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.9.0.15.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.9.0.15.zip",
+			"ipfsCid": "bafybeiag5vnuqbhakt5icfppuuuqhtwie5srgsx5wgsxld37nq2pfxaaia"
 		},
 		"1.10.0.7": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.10.0.7.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.10.0.7.zip",
+			"ipfsCid": "bafybeifcprqvcdvvee7haxhy7sq4bkh254weyschiasqj3xjapaqi2mbyq"
 		},
 		"1.11.0.23": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.11.0.23.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.11.0.23.zip",
+			"ipfsCid": "bafybeidamdhq4ehm5xxpoxnnbyldmcrmhtf6sboprwcj3nnzs33pq7uixq"
 		},
 		"1.11.1.2": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.11.1.2.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.11.1.2.zip",
+			"ipfsCid": "bafybeifmkhucvdc7yevcjm5xtrjdqbcvdrvabwds2bmpqzhgppq37hkg7m"
 		},
 		"1.11.2.1": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.11.2.1.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.11.2.1.zip",
+			"ipfsCid": "bafybeicfmb2o2faljtgdyihbkjmwqao3g45dxfoj3cjjtxjfyxzkbwpgom"
 		},
 		"1.11.4.2": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.11.4.2.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.11.4.2.zip",
+			"ipfsCid": "bafybeibqgmsrb3cy7tgds6y3l46pa6garmnok7qn4naktsuefeb4dek2ci"
 		},
 		"1.12.0.28": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.12.0.28.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.12.0.28.zip",
+			"ipfsCid": "bafybeifvewrj5wohwx25c4fyrlsbn7eib4egob6wypbnhorsrajvfy6wc4"
 		},
 		"1.12.1.1": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.12.1.1.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.12.1.1.zip",
+			"ipfsCid": "bafybeihbor4zxgr545q5mu4qobragfqdypcs7z3olv5vi7bngyjbtjlyn4"
 		},
 		"1.13.0.34": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.13.0.34.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.13.0.34.zip",
+			"ipfsCid": "bafybeifkoxhval7qdkerxkaq5ddy2sezmvs22vzxb7ko5s5a3olrtth6ci"
 		},
 		"1.13.1.5": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.13.1.5.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.13.1.5.zip",
+			"ipfsCid": "bafybeibzz66n33vn72likgp4bi7xjdnpr3qxxifdrurgglmwvbhh6xmrmm"
 		},
 		"1.13.2.0": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.13.2.0.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.13.2.0.zip",
+			"ipfsCid": "bafybeih6hrjki4r44u4a4rvsfsgpv7oqilkazibyibgvqd2tzioli2qdne"
 		},
 		"1.13.3.0": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.13.3.0.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.13.3.0.zip",
+			"ipfsCid": "bafybeiaqnsfaobfucws5h2wmx7luu4faecuac7vjz3qloprvzw3hqzhepu"
 		},
 		"1.14.0.9": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.14.0.9.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.14.0.9.zip",
+			"ipfsCid": "bafybeidnyuyczrudznfetzuyedd7uqaj4zdnwp3skolelyusg6ljk5263a"
 		},
 		"1.14.1.4": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.14.1.4.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.14.1.4.zip",
+			"ipfsCid": "bafybeihijeqpby2hadwf6km2dfgvdoh2tsfof5pmhgrvuvk55mfrcsn7b4"
 		},
 		"1.14.20.1": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.14.20.1.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.14.20.1.zip",
+			"ipfsCid": "bafybeidzwu3boegxmc4lpuj3cvs4n25sjh6fiqednlopqcg5h2pgchcvfa"
 		},
 		"1.14.21.0": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.14.21.0.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.14.21.0.zip",
+			"ipfsCid": "bafybeibh7iiiqjf7hi5jyzdlog3rr2tmvge3jkew6wfw4pb4kufp5g6sqa"
 		},
 		"1.14.30.2": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.14.30.2.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.14.30.2.zip",
+			"ipfsCid": "bafybeifln6fedhd6go36xpsgqgjzd4sitwzmqkjpqouokyiqvysmuklnqq"
 		},
 		"1.14.32.1": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.14.32.1.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.14.32.1.zip",
+			"ipfsCid": "bafybeigxmwkvw7sipgqbfkucmxf2veuxvafleb2xmjqnmwvilj4mfjvb2y"
 		},
 		"1.14.60.5": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.14.60.5.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.14.60.5.zip",
+			"ipfsCid": "bafybeig663dsituvbge2o3l3leoq6puegablopsr26aj2lkf7qh6waka3a"
 		},
 		"1.16.0.2": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.0.2.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.0.2.zip",
+			"ipfsCid": "bafybeiho32bjvvyzpqfd6jzx7m3h4rok43jtqk6gzfkj5lhag54uwxoyby"
 		},
 		"1.16.1.02": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.1.02.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.1.02.zip",
+			"ipfsCid": "bafybeigr32vhevm4m7q3nstvhtoyebzztobqukrqq3rw6gb24giqateluq"
 		},
 		"1.16.10.02": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.10.02.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.10.02.zip",
+			"ipfsCid": "bafybeibtyv35ng64anwctiksb7tuugaqxhi73t2r2d35iol6lpkgywddsi"
 		},
 		"1.16.20.03": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.20.03.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.20.03.zip",
+			"ipfsCid": "bafybeia5fbg62fqw6qxcq7hihuwh2xbnxhgrz3or7trnqk5tdxblaqcrtq"
 		},
 		"1.16.40.02": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.40.02.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.40.02.zip",
+			"ipfsCid": "bafybeibmrub2s7v3bahufnuksxhy4wn2awlp5kfyx2vuqgsia3axv5k2be"
 		},
 		"1.16.100.04": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.100.04.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.100.04.zip",
+			"ipfsCid": "bafybeid5ujayln43idvia63v2v3b6vpxa3wkf7tfsa6zel4k47oaesvb6u"
 		},
 		"1.16.101.01": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.101.01.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.101.01.zip",
+			"ipfsCid": "bafybeiephtsuhizfxvyompfmmhssresswsqbtjqyjluzmxqj6n3ljk7gnq"
 		},
 		"1.16.200.02": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.200.02.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.200.02.zip",
+			"ipfsCid": "bafybeibnveqa4kwcyq4jbuq3jrby3a7lb77wsdhgxetdmmfspvqqb22vua"
 		},
 		"1.16.201.02": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.201.02.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.201.02.zip",
+			"ipfsCid": "bafybeie7j6mfnvow3g3cupil2d5ggxrh5tskkmfzpmbgdpzhfaz3legvxm"
 		},
 		"1.16.201.03": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.201.03.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.201.03.zip",
+			"ipfsCid": "bafybeihksujefngrlwhzvokebrvpxrovsmkzgcthlz4jybgxelpsie6tye"
 		},
 		"1.16.210.05": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.210.05.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.210.05.zip",
+			"ipfsCid": "bafybeigu5mn3quup25kcqw4kgsuld4hkpxhg4tsenrwgijk2xgnp3ydabe"
 		},
 		"1.16.210.06": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.210.06.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.210.06.zip",
+			"ipfsCid": "bafybeidz5clwmldquxytgvieibrzlah3zelkcgdwlkih6agboe4i7ir4ue"
 		},
 		"1.16.220.02": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.220.02.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.220.02.zip",
+			"ipfsCid": "bafybeien2dynstc2a7llqli7w6qhddmunfk6r5gp5gxgj7mi5t5dspub7e"
 		},
 		"1.16.221.01": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.221.01.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.16.221.01.zip",
+			"ipfsCid": "bafybeidwffyzxs4cwxzsljncfejvpjeqaig7eawkljhgsj5h6lxmki2ota"
 		},
 		"1.17.0.03": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.0.03.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.0.03.zip",
+			"ipfsCid": "bafybeibxwh52un47l74zlrbd2koxr6ehanect5r2klzuwacnquqols4hvi"
 		},
 		"1.17.1.01": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.1.01.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.1.01.zip",
+			"ipfsCid": "bafybeialv5j7i5wwj6f26mr2jczjf3cvypxtusd33tnlkhayhzxgzy6tma"
 		},
 		"1.17.2.01": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.2.01.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.2.01.zip",
+			"ipfsCid": "bafybeiezrxalnwkrjgoqaoclhdqssrmcfazhghd2gdcsl4hhthbdjrxy2i"
 		},
 		"1.17.10.04": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.10.04.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.10.04.zip",
+			"ipfsCid": "bafybeig5gjfecokzsslt7ew2npide7lkbhoguaehpgxo6smcx6wheqnrte"
 		},
 		"1.17.11.01": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.11.01.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.11.01.zip",
+			"ipfsCid": "bafybeic27st3uceiwofrf5nihjmpjlirvqds67ucoi6aokxdo4ksda5s2e"
 		},
 		"1.17.30.04": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.30.04.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.30.04.zip",
+			"ipfsCid": "bafybeihncwr5ju46bjd53lkobylspo6ytfew656st5h5vzqlvfigkvxczm"
 		},
 		"1.17.31.01": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.31.01.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.31.01.zip",
+			"ipfsCid": "bafybeigxfx3tagxgjvpqmqz5uh4g3d3jyj7oy3rcvkew7fmjz2xmzfs32i"
 		},
 		"1.17.32.02": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.32.02.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.32.02.zip",
+			"ipfsCid": "bafybeiarai5x33kdxwnlar4r6b6gchpz2gm5zvzubvanawxp2sgm4tv6b4"
 		},
 		"1.17.33.01": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.33.01.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.33.01.zip",
+			"ipfsCid": "bafybeidm6ni4pbjnabxo27rhhfjezwpfbo2y554ro7p37o5zq6zv2rs7nm"
 		},
 		"1.17.34.02": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.34.02.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.34.02.zip",
+			"ipfsCid": "bafybeianiyumdhaocxx6w7xbgn3s3fjkxi5zj7wgndbxw3yr3tannp6aiq"
 		},
 		"1.17.40.06": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.40.06.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.40.06.zip",
+			"ipfsCid": "bafybeic4uixl3aspo3x3q7aq5c76k7acgb6uhks6glnsuj2idfe6jtyexq"
 		},
 		"1.17.41.01": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.41.01.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.17.41.01.zip",
+			"ipfsCid": "bafybeieisinefzymeggtj5mx6l7nmjrngsmqphbt5fnqokjx2jveqbsx3y"
 		},
 		"1.18.0.02": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.18.0.02.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.18.0.02.zip",
+			"ipfsCid": "bafybeiejrvyvp3rdyewwuzuih77xxniy7lorymie7crnkqk4jx76rp7xoy"
 		},
 		"1.18.1.02": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.18.1.02.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.18.1.02.zip",
+			"ipfsCid": "bafybeibpizbdcz4blttlfkll7rt3ba67cs5yom6bv7xbjuefavvkzrdziu"
 		},
 		"1.18.2.03": {
-			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.18.2.03.zip"
+			"downloadUrl": "https://minecraft.azureedge.net/bin-win/bedrock-server-1.18.2.03.zip",
+			"ipfsCid": "bafybeigk522gge7ei3wjndnsowjw2qmloiqxjhyvyicgfkdehabvnxbazm"
 		}
 	}
 }
