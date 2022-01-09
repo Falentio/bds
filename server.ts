@@ -67,5 +67,11 @@ await listenAndServe({ port }, request => {
 			status: 404
 		})
 	}
+	if (
+		url.searchParams.get("redirect") !== null ||
+		url.searchParams.get("r") !== null
+	) {
+		return Response.redirect(result)
+	}
 	return new Response(result)
 })
